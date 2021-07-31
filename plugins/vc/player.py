@@ -41,24 +41,24 @@ __starts with / (slash) or ! (exclamation mark)__
 __available to userbot account itself and its contacts__
 __starts with ! (exclamation mark)__
 
-✯ `!skip` skip current playing song,
-✯ `!join`  join voice chat of current group,
-✯ `!leave`  leave current voice chat,
-✯ `!vc`  check which VC is joined,
-✯ `!stop`  stop playing,
-✯ `!replay`  play from the beginning,
-✯ `!clean`  remove unused RAW PCM files,
-✯ `!pause` pause playing,
-✯ `!resume` resume playing,
-✯ `!mute`  mute the VC userbot,
-✯ `!unmute`  unmute the VC userbot.
+♡︎ `!skip` skip current playing song,
+♡︎ `!join`  join voice chat of current group,
+♡︎ `!leave`  leave current voice chat,
+♡︎ `!vc`  check which VC is joined,
+♡︎ `!stop`  stop playing,
+♡︎ `!replay`  play from the beginning,
+♡︎ `!clean`  remove unused RAW PCM files,
+♡︎ `!pause` pause playing,
+♡︎ `!resume` resume playing,
+♡︎ `!mute`  mute the VC userbot,
+♡︎ `!unmute`  unmute the VC userbot.
 
-✯ provided by 🤖 **[TamilBots](https://t.me/TamilBots)**
-✯ For Support 🆘 **[TamilSupport](https://t.me/TamilSupport)**"""
+✯ provided by ⚡ **[Perfect_Vazha 🔰](https://t.me/Perfect_Vazha)**
+✯ For Support 🔥 **[Support 🐙](https://t.me/UnitedKeralaChat)**"""
 
 USERBOT_REPO = f"""{emoji.ROBOT} Tamil Voice Chat UserBot
-» Repository: **[GitHub](https://github.com/tamilbots/tamilvcbot)**
-» Provided by **[TamilBots](https://t.me/TamilBots)**
+» Repository: **[GitHub](https://github.com/PerfectVazha/MalluVcbot)**
+» Provided by **[Perfect_Vazha](https://t.me/Perfect_Vazha)**
 » License: AGPL-3.0-or-later"""
 
 
