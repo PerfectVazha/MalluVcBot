@@ -40,7 +40,7 @@ __starts with ! (exclamation mark)__
 ✯ `!resume` resume playing,
 ✯ `!mute`  mute the VC userbot,
 ✯ `!unmute`  unmute the VC userbot.
-✯ provided by 🤖 **[Perfect Vazha](https://t.me/TamilBots)**
+✯ provided by 🤖 **[Perfect Vazha](https://t.me/Perfect_Vazha)**
 ✯ For Support 🆘 **[Support](https://t.me/Unitedkeralachat)**"""
 
 USERBOT_REPO = f"""{emoji.ROBOT} Tamil Voice Chat UserBot
